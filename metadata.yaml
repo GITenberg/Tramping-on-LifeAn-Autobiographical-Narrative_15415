@@ -1,0 +1,30 @@
+_repo: Tramping-on-LifeAn-Autobiographical-Narrative_15415
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15415-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kemp, Harry
+    birthdate: 1883
+    deathdate: 1960
+    gutenberg_agent_id: '6041'
+    url: http://www.gutenberg.org/2009/agents/6041
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Kemp
+description: The eccentric poet and raconteur writes about his life. He once lived
+  in a shack in Provincetown, Massachusetts and elsewhere.
+gutenberg_issued: '2005-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kemp, Harry, 1883-1960'
+title: 'Tramping on Life
+
+  An Autobiographical Narrative'
+url: http://www.gutenberg.org/ebooks/15415
