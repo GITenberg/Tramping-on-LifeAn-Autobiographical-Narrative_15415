@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harry_Kemp
 description: The eccentric poet and raconteur writes about his life. He once lived
   in a shack in Provincetown, Massachusetts and elsewhere.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15415#Tramping-on-LifeAn-Autobiographical-Narrative
 gutenberg_issued: '2005-03-19'
 gutenberg_type: Text
 identifiers:
